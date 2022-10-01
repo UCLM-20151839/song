@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><link rel="stylesheet" href="songstyle.css"></head>
+    <body>
+        <div id="panel">
+            <p>
+                <a href="song1.html" target="display">Aphrodite</a> |
+                <a href="song2.html" target="display">Love Me</a> |
+                <a href="song3.html" target="display">Maikee's Letters</a> |
+                <a href="song4.html" target="display">Those Eyes</a> |
+                <a href="song5.html" target="display">Die For You</a> |
+            </p>
+            <div id="display">
+                <iframe name="display"></iframe>
+            </div>
+        </div>
+    </body>
+</html>
